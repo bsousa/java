@@ -20,8 +20,8 @@ public class OiMundoServlet extends HttpServlet {
      * Default constructor. 
      */
     public OiMundoServlet() {
-    } 
-
+    }
+    
 	/**
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
